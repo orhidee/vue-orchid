@@ -2,7 +2,11 @@
 ## Vue for Orchids
 Catalog with information and SVG images generated from high quality photos of orchids native to Estonia.
 Project is implemented with Vue and Webpack. 
-
+## Käpalised.com
+Github pages for current project generated from dist folder.
+Website is published to:
+* https://käpalised.com
+* https://orhidee.github.io
 ## Releases
 ### v0.1.0
 Simpliest Vue application with 3 pages:
