@@ -26,6 +26,6 @@ yarn build
 # js content to be uploaded to FTP server.
 ```
 ## Repositories
-https://github.com/orhidee/vue-orchid - Vue project.
-https://github.com/orhidee/orhidee.github.io - Github pages for current project generated from dist folder.
-https://github.com/orhidee/AI - Content, project files and originals.
+* https://github.com/orhidee/vue-orchid - Vue project.
+* https://github.com/orhidee/orhidee.github.io - Github pages for current project generated from dist folder.
+* https://github.com/orhidee/AI - Content, project files and originals.
