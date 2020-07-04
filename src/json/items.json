@@ -1,0 +1,715 @@
+[
+  {
+    "id": "1",
+    "name": "Anacamptis morio",
+    "name_en": "en: green-winged orchid",
+    "name_et": "et: Arukäpp",
+    "name_ru": "ru: Ятрышник дремлик",
+    "jpgs": [
+      {
+        "id": "1",
+        "href": "flower.jpg"
+      },
+      {
+        "id": "2",
+        "href": "photo.jpg"
+      }
+    ],
+    "texts": [
+      {
+        "id": "1",
+        "header": "Välimus",
+        "content": [
+          {
+            "id": "1",
+            "p": "Arukäpa vars on 10–20 cm kõrgune. Varre alumises osas olevad lehed on 4–7 (isegi 8) cm pikad. Lehtedel on selgelt märgatavad pikirood ja külgrood. Ülemised lehed moodustavad varre ümber lehetupe. Lehed on süstjad, vahel ovaalsed, ja kasvavad männases juurealuselt välja. Mõned õhemad lehed kasvavad ka varrel peaaegu kuni õisikuni. Lehed on üleni rohelised."
+          },
+          {
+            "id": "2",
+            "p": "Tähk on hõre ja väheste õitega. Õied on violetsed. Eriti intensiivse värvusega on umbes 1 cm pikkuse huule külgmised hõlmad. Keskmine huuleosa on heledam, tumedate täppidega. Arukäpa huul on ebaselgelt kolmehõlmaline, keskmine hõlm on tavaliselt veidi pügaldunud. Mõnikord on väljalõige keskmise hõlma tipul siiski nii suur, et huul näib kahehõlmalisena. Teised umbes 2/3 huule pikkused õiekattelehed hoiduvad ülal kompaktselt kokku, 3–4 mm laiused külgmised-välimised õiekattelehed võivad olla ka veidi eemal. Välimistel õiekattelehtedel leidub ka rohelist värvust ja pikisoonestus on väga kontrastne. Sisemised ülemised õiekattelehed on külgmistest kitsamad. Kõigi ülemiste õiekattelehtede tipud on allapoole või õie keskkoha poole suunatud. Tipust tavaliselt veidi jämedam, sigimiku pikkune kannus hoidub tipuga üles. Kandelehed on violetsed, peaaegu sigimiku pikkused."
+          },
+          {
+            "id": "3",
+            "p": "Arukäpp õitseb Inglismaal aprilli lõpust juunini, aga näiteks Prantsusmaal hakkavad õitsema juba veebruaris. Õisik koosneb 5–25 õiest ja asub varre tipus. Igal õiel on kannus, kus leidub nektarit. Nektar meelitab ligi putukaid, kes tolmeldavad õisi."
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "header": "Levila",
+        "content": [
+          {
+            "id": "1",
+            "p": "Arukäpp kasvab Lõuna-Iirimaal, Walesis, Lõuna-Inglismaal, Ida-Hispaanias, Marokos, Kreekas ning sealt lääne poole kuni Kaspia mere lääneranniku ja Iraanini."
+          },
+          {
+            "id": "2",
+            "p": "Saksamaal oli arukäpp 19. sajandil väga levinud, aga on hiljem mitmel pool Põhja-Saksamaal välja surnud."
+          },
+          {
+            "id": "3",
+            "p": "Eestis on arukäpp II kategooria looduskaitse all olev liik. Ta kasvab Lääne-Saaremaal ja Lääne-Muhumaal."
+          },
+          {
+            "id": "4",
+            "p": "Arukäpa meeliskasvupaigad on kuivad niidud, puisniidud, lookadastikud ja hõredad loometsad."
+          },
+          {
+            "id": "5",
+            "p": "Saksamaal valitakse alates 1989 aasta orhideed ja arukäpp valiti juba 1991 Saksamaa aasta orhideeks."
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "header": "Levik kaart",
+        "content": [
+          {
+            "id": "1",
+            "p": "Vaata arukäpa levikukaarti Eesti taimede uue levikuatlase <a target='_blank' href=\"https://ottluuk.github.io/atlas/taxon/Orchis_morio.html\">tööversioonis</a>."
+          }
+        ]
+      }
+    ],
+    "svgs": [
+      {
+        "id": "1",
+        "href": "Flower.svg",
+        "name": "Flower SVG"
+      },
+      {
+        "id": "2",
+        "href": "Photo.svg",
+        "name": "Photo SVG"
+      }
+    ],
+    "pdfs": [
+      {
+        "id": "1",
+        "href": "Flower.pdf",
+        "name": "Flower PDF"
+      },
+      {
+        "id": "2",
+        "href": "Photo.pdf",
+        "name": "Photo PDF"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Cypripedium calceolus",
+    "name_en": "en: lady's-slipper orchid",
+    "name_et": "et: Kaunis kuldking",
+    "name_ru": "ru: Башмачок настоящий",
+    "jpgs": [
+      {
+        "id": "1",
+        "href": "flower.jpg"
+      },
+      {
+        "id": "2",
+        "href": "photo.jpg"
+      }
+    ],
+    "texts": [
+      {
+        "id": "1",
+        "header": "Nimetus",
+        "content": [
+          {
+            "id": "1",
+            "p": "Rahvakeeli kutsutakse lille käokingaks, kukulinnupätaks, käopättaks, neitsikingaks, pruudikingaks või saksakingaks."
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "header": "Välimus",
+        "content": [
+          {
+            "id": "1",
+            "p": "Omapärase, isegi eksootilise õie tõttu kergesti äratuntav. Õis ehk king on umbes 4–6 cm pikk. Varrel kasvab kuni kuus lehte, mis kujult meenutavad maikellukest. Taimel on 1–3, tavaliselt kaks õit. Kõrguseks on taimel ~ 20–50 cm (harvem ka 80 cm)."
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "header": "Õis",
+        "content": [
+          {
+            "id": "1",
+            "p": "Ühe sümmeetriateljega suured õied on kuni 10 cm suurused. Õiel on suur läikiv sidrunkollane kingakujuline õõnes huul, mille pikkus ulatub kuni 4 cm, siseküljel on punakad täpid ja sooned. Ülejäänud õiekattelehed on lamedad, meenutavad teritunud paela. Paelad on lillakaspruunid, mille pikkus on kuni 6 cm. Õite alusel on ka kandelehed, mis sarnanevad varrelehtedega. Õitseb mai lõpust juuli alguseni. Õitel on nõrk vanillilõhn, mis meelitab ligi väikeseid putukaid. Putuktolmleja."
+          },
+          {
+            "id": "2",
+            "p": "Õis on tolmeldavate putukate jaoks lõks: kingakujulisest huulest pole muud väljapääsu kui tolmukatest ja emakasuudmetest mööda ronides. Kuldkinga lõhn meenutab putukatele feromoone, mis meelitab kohale isaseid erakmesilasi."
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "header": "Paljunemine ja levik",
+        "content": [
+          {
+            "id": "1",
+            "p": "Paljuneb nii seemnetega kui ka vegetatiivselt risoomiharudega. Maa sees on kuldkingal jäme risoom, mis kasvab pikkamööda, teisest otsast samal ajal kõdunedes. Ühe risoomi eluiga on 20–25 aastat. Üks puhmik võib elada 30 aastat vanaks."
+          },
+          {
+            "id": "2",
+            "p": "Seemneid on tal küll palju, kuid millimeetrisuurused seemned arenevad aeglaselt ja õitsemisikka jõudmiseks kulub vähemalt 15 aastat. Seemned levivad õhuvooludega. Seemnelisel paljunemisel on vajalik sobiva seeneniidistiku olemasolu mullas."
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "header": "Levila",
+        "content": [
+          {
+            "id": "1",
+            "p": "Levinud laialdaselt nii Euroopa kui ka Aasia parasvöötmes, ka Põhja-Ameerikas. Esineb hajusalt, kuid kõikjal vähesearvuliselt. Eestis on teda hajusalt, sagedamini on teda siiski lääne- ja põhjaosas."
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "header": "Kasvukoht",
+        "content": [
+          {
+            "id": "1",
+            "p": "Kasvab tavaliselt puisniitudel, metsaservadel ja hõredamates kuuse-segametsades."
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "header": "Kaitsestaatus",
+        "content": [
+          {
+            "id": "1",
+            "p": "Ta on II kategooria kaitsealune taim. Taime ohustab nii korjamine lõikelilleks kui ka väljakaevamine koduaeda toomiseks. Taime ümberistutamine reeglina ebaõnnestub, kuna aiamullas puudub taime kasvuks vajalik mükoriisa. Looduslikest vaenlastest on ohtlikumad metssead, kes kuldkinga risoome välja tuhnivad."
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "header": "Sümbol",
+        "content": [
+          {
+            "id": "1",
+            "p": "Kaunis kuldking on Norra Nord-Trøndelagi maakonnalill. 2003. aastal oli kaunis kuldking Läti aasta taim."
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "header": "Levik kaart",
+        "content": [
+          {
+            "id": "1",
+            "p": "Vaata kollaka sõrmkäpa levikukaarti Eesti taimede uue levikuatlase <a target='_blank' href=\"https://ottluuk.github.io/atlas/taxon/Cypripedium_calceolus.html\">tööversioonis</a>."
+          }
+        ]
+      }
+    ],
+    "svgs": [
+      {
+        "id": "1",
+        "href": "Flower.svg",
+        "name": "Flower SVG"
+      },
+      {
+        "id": "2",
+        "href": "Photo.svg",
+        "name": "Photo SVG"
+      }
+    ],
+    "pdfs": [
+      {
+        "id": "1",
+        "href": "Flower.pdf",
+        "name": "Flower PDF"
+      },
+      {
+        "id": "2",
+        "href": "Photo.pdf",
+        "name": "Photo PDF"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Dactylorhiza baltica",
+    "name_en": "en: broad-leaved marsh orchid",
+    "name_et": "et: Balti sõrmkäpp",
+    "name_ru": "ru: Пальчатокоренник балтийский",
+    "jpgs": [
+      {
+        "id": "1",
+        "href": "flower.jpg"
+      },
+      {
+        "id": "2",
+        "href": "photo.jpg"
+      }
+    ],
+    "texts": [
+      {
+        "id": "1",
+        "header": "Välimus",
+        "content": [
+          {
+            "id": "1",
+            "p": "Balti sõrmkäpp kasvab 25–70 (100) cm kõrguseks. Varrel ühtlaselt paiknevad lehed on ühelaiused, olles keskmiselt 2 cm laiused ja laiuvad, tumerohelised ja tumedalaigulised. Mõnikord võivad laigud olla rõngakujulised. Kõige suurem leht on alt teine. Lehed on altpoolt rohelised ja läiketa."
+          },
+          {
+            "id": "2",
+            "p":"Roosakasvioletsed, väga selgete purpurvioletsete joontega õied on koondunud tihedasse tipmisse õisikusse. Huule külgmised hõlmad on suunatud külgedele ning keskmine hõlm otse alla, justkui suust välja aetud keel. Taimed õitsevad Eestis juuni teisest nädalast juuli lõpuni."
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "header": "Paljunemine",
+        "content": [
+          {
+            "id": "1",
+            "p": "Taimi tolmeldavad putukad, kuid nektarit sõrmkäpad tolmeldajatele ei paku. Heades kasvutingimustes on täheldatud vegetatiivset paljunemist, kus vana juuremugula asemele kasvab kaks või enam noort mugulat. Hübridiseerub kõigi sõrmkäpa perekonna liikide ja harva ka teiste perekondade esindajatega."
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "header": "Levila",
+        "content": [
+          {
+            "id": "1",
+            "p": "Eestis esineb balti sõrmkäppa hajusalt ja väikesearvuliselt, olles rohkearvulisem Kagu-Eestis."
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "header": "Kasvukoht",
+        "content": [
+          {
+            "id": "1",
+            "p": "Peamisteks kasvukohtadeks on soo- ja rannaniidud, veekogude kaldad ning madalsood."
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "header": "Kaitsestaatus",
+        "content": [
+          {
+            "id": "1",
+            "p": "Eestis on balti sõrmkäpp III kaitsekategooria kaitsealune liik."
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "header": "Levik kaart",
+        "content": [
+          {
+            "id": "1",
+            "p": "Vaata balti sõrmkäpa levikukaarti Eesti taimede uue levikuatlase <a target='_blank' href=\"https://ottluuk.github.io/atlas/taxon/Dactylorhiza_baltica.html\">tööversioonis</a>."
+          }
+        ]
+      }
+    ],
+    "svgs": [
+      {
+        "id": "1",
+        "href": "Flower.svg",
+        "name": "Flower SVG"
+      },
+      {
+        "id": "2",
+        "href": "Photo.svg",
+        "name": "Photo SVG"
+      }
+    ],
+    "pdfs": [
+      {
+        "id": "1",
+        "href": "Flower.pdf",
+        "name": "Flower PDF"
+      },
+      {
+        "id": "2",
+        "href": "Photo.pdf",
+        "name": "Photo PDF"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Dactylorhiza fuchsii",
+    "name_en": "en: common spotted orchid",
+    "name_et": "et: Vööthuul-sõrmkäpp",
+    "name_ru": "ru: Пальчатокоренник Фукса",
+    "jpgs": [
+      {
+        "id": "1",
+        "href": "photo.jpg"
+      }
+    ],
+    "texts": [
+      {
+        "id": "1",
+        "header": "Kirjeldus",
+        "content": [
+          {
+            "id": "1",
+            "p": "Vööthuul-sõrmkäpp on 30 kuni 65 cm pikkune tugeva varrega orhidee. Lehed on kuni 17 cm pikad ja 2 kuni 3 cm laiad tumelillade laikudega lehe pealmisel poolel, harva ilma. Lehed on alusel märgatavalt ahenenud, alt hallikasrohelised. Õitseb juunis-juulis. Õied on värvuselt lillad kuni roosad, harva valged, selge joonisega ja koondunud koonusjasse õisikusse varre tipus. Huule hõlmad on allapoole suunatud, keskmine hõlm on kitsaskolmnurkne ja ulatub külgmiste hõlmade vahelt välja."
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "header": "Kasvukoht",
+        "content": [
+          {
+            "id": "1",
+            "p": "Kasvavad segametsades ja puisniitudel, ka teeservades."
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "header": "Levik",
+        "content": [
+          {
+            "id": "1",
+            "p": "Hajusalt levinud üle Eesti, rohkemaarvuliselt läänesaartel ja Põhja-Eestis."
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "header": "Kaitsestaatus",
+        "content": [
+          {
+            "id": "1",
+            "p": "Eestis on vööthuul-sõrmkäpp III kaitsekategooria kaitsealune liik."
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "header": "Sarnased liigid",
+        "content": [
+          {
+            "id": "1",
+            "p": "Balti sõrmkäpp, kelle huule keskmised hõlmad on külgedele suunatud ning lehed ei ole alt hallikad; kuradi-sõrmkäpp, kelle huule keskmine hõlm on laikolmnurkne ning huul lõhestunud alla poole."
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "header": "Levik kaart",
+        "content": [
+          {
+            "id": "1",
+            "p": "Vaata vööthuul-sõrmkäpa levikukaarti Eesti taimede uue levikuatlase <a target='_blank' href=\"https://ottluuk.github.io/atlas/taxon/Dactylorhiza_fuchsii.html\">tööversioonis</a>."
+          }
+        ]
+      }
+    ],
+    "svgs": [
+      {
+        "id": "1",
+        "href": "Photo.svg",
+        "name": "Photo SVG"
+      }
+    ],
+    "pdfs": [
+      {
+        "id": "1",
+        "href": "Photo.pdf",
+        "name": "Photo PDF"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Dactylorhiza incarnata",
+    "name_en": "en: early marsh-orchid",
+    "name_et": "et: Kahkjaspunane sõrmkäpp",
+    "name_ru": "ru: Пальчатокоренник мясо-красный",
+    "jpgs": [
+      {
+        "id": "1",
+        "href": "flower.jpg"
+      },
+      {
+        "id": "2",
+        "href": "photo.jpg"
+      }
+    ],
+    "texts": [
+      {
+        "id": "1",
+        "header": "Kirjeldus",
+        "content": [
+          {
+            "id": "1",
+            "p": "Kahkjaspunane sõrmkäpp on 20 kuni 50 cm pikkuse üleni lehistunud varrega orhidee. Lehed on hele- või kollakasrohelised kuni 13 cm pikad ja 2 cm laiad ja enamasti täppideta. Lehe kõige laiem koht on keskkohast allpool. Õitseb juunis-juulis. Õied väikesed, kahvaturoosad, tumelillad, harva valged, joonisega ja koondunud koonusjasse õisikusse varre tipus. Huul on rombjas, peaaegu terve, kuni 7 mm laiune, külgmised hõlmad tagasimurtud."
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "header": "Kasvukoht",
+        "content": [
+          {
+            "id": "1",
+            "p": "Kasvavad niisketel niitudel ja soistel niitudel, soodes, maanteekraavides."
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "header": "Levik",
+        "content": [
+          {
+            "id": "1",
+            "p": "Tavaline üle Eesti."
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "header": "Kaitsestaatus",
+        "content": [
+          {
+            "id": "1",
+            "p": "Kahkjaspunane sõrmkäpp on III kaitsekategooria liik"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "header": "Sarnased liigid",
+        "content": [
+          {
+            "id": "1",
+            "p": "Täpiline sõrmkäpp, kelle lehed on tumedate laikudega mõlemalt poolt, mis lehe tipus sulavad ühte; kollakas sõrmkäpp, kelle õied on valkjas-kollased."
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "header": "Levik kaart",
+        "content": [
+          {
+            "id": "1",
+            "p": "Vaata kahkjaspunase sõrmkäpa levikukaarti Eesti taimede uue levikuatlase <a target='_blank' href=\"https://ottluuk.github.io/atlas/taxon/Dactylorhiza_incarnata.html\">tööversioonis</a>."
+          }
+        ]
+      }
+    ],
+    "svgs": [
+      {
+        "id": "1",
+        "href": "Flower.svg",
+        "name": "Flower SVG"
+      },
+      {
+        "id": "2",
+        "href": "Photo.svg",
+        "name": "Photo SVG"
+      }
+    ],
+    "pdfs": [
+      {
+        "id": "1",
+        "href": "Flower.pdf",
+        "name": "Flower PDF"
+      },
+      {
+        "id": "2",
+        "href": "Photo.pdf",
+        "name": "Photo PDF"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Dactylorhiza maculata",
+    "name_en": "en: heath spotted-orchid",
+    "name_et": "et: Kuradi-sõrmkäpp",
+    "name_ru": "ru: Пальчатокоренник пятнистый",
+    "jpgs": [
+      {
+        "id": "1",
+        "href": "flower.jpg"
+      },
+      {
+        "id": "2",
+        "href": "photo.jpg"
+      }
+    ],
+    "texts": [
+      {
+        "id": "1",
+        "header": "Kirjeldus",
+        "content": [
+          {
+            "id": "1",
+            "p": "Kuradi-sõrmkäpp on 20–50 cm pikkune tugeva varrega orhidee. Lehed on kuni 15 cm pikad ja kuni 3 cm laiad tumelillade ümarate laikudega lehe pealmisel poolel. Lehed on alusel märgatavalt ahenenud, alt hallikasrohelised. Õitseb juunis-juulis. Õied on suhteliselt suured, värvuselt lillad kuni roosad, harva valged, koondunud koonusjasse õisikusse varre tipus. Huule hõlmad on allapoole suunatud, keskmine hõlm on väike ja kolmnurgakujuline."
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "header": "Kasvukoht",
+        "content": [
+          {
+            "id": "1",
+            "p": "Kasvavad niisketel ja märgadel heinamaadel, soostunud niitudel ja soodes."
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "header": "Kaitsestaatus",
+        "content": [
+          {
+            "id": "1",
+            "p": "Kuradi-sõrmkäpp on III kaitsekategooria kaitsealune liik."
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "header": "Rahvapärimus",
+        "content": [
+          {
+            "id": "1",
+            "p": "Kuradi-sõrmkäpp on nimetuse saanud tumedat, peaaegu musta käppa või kätt meenutava, mullas asuva juuremugula tõttu, noorem juuremugul on valge. Nii kannabki kuradi-sõrmkäpp korraga justkui hea ja kurja alget. Varem on kasutatud ka ravimtaimena."
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "header": "Sarnased liigid",
+        "content": [
+          {
+            "id": "1",
+            "p": "Balti sõrmkäpp, kelle huule keskmised hõlmad on külgedele suunatud ning lehed ei ole alt hallikad; vööthuul-sõrmkäpp, kelle huule keskmine hõlm on kitsaskolmnurkne ning huul lõhestunud vähemalt pooles ulatuses."
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "header": "Levik kaart",
+        "content": [
+          {
+            "id": "1",
+            "p": "Vaata kuradi-sõrmkäpa levikukaarti Eesti taimede uue levikuatlase <a target='_blank' href=\"https://ottluuk.github.io/atlas/taxon/Dactylorhiza_maculata.html\">tööversioonis</a>."
+          }
+        ]
+      }
+    ],
+    "svgs": [
+      {
+        "id": "1",
+        "href": "Flower.svg",
+        "name": "Flower SVG"
+      },
+      {
+        "id": "2",
+        "href": "Photo.svg",
+        "name": "Photo SVG"
+      }
+    ],
+    "pdfs": [
+      {
+        "id": "1",
+        "href": "Flower.pdf",
+        "name": "Flower PDF"
+      },
+      {
+        "id": "2",
+        "href": "Photo.pdf",
+        "name": "Photo PDF"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Dactylorhiza ochroleuca",
+    "name_en": "en: white early marsh orchid",
+    "name_et": "et: Kollakas sõrmkäpp",
+    "name_ru": "ru: Пальчатокоренник бледно-жёлтый",
+    "jpgs": [
+      {
+        "id": "1",
+        "href": "flower.jpg"
+      },
+      {
+        "id": "2",
+        "href": "photo.jpg"
+      }
+    ],
+    "texts": [
+      {
+        "id": "1",
+        "header": "Kirjeldus",
+        "content": [
+          {
+            "id": "1",
+            "p": "Kõrgus: 26-50 cm. Lehti 4-6, täppideta, ühtlaselt ahenevad tipu suunas. Õisik on tihe ja väikeste valkjaskollakate õitega, ilma mustrita. Huulte alguses on kollakas toon ja huuled on tagasi murtud."
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "header": "Kasvukoht",
+        "content": [
+          {
+            "id": "1",
+            "p": "Madalsood, allikasood, kraavid."
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "header": "Kaitsestaatus",
+        "content": [
+          {
+            "id": "1",
+            "p": "Vaata kollaka sõrmkäpa levikukaarti Eesti taimede uue levikuatlase <a target='_blank' href=\"https://ottluuk.github.io/atlas/taxon/Dactylorhiza_incarnata_subsp__ochroleuca.html\">tööversioonis</a>."
+          }
+        ]
+      }
+    ],
+    "svgs": [
+      {
+        "id": "1",
+        "href": "Flower.svg",
+        "name": "Flower SVG"
+      },
+      {
+        "id": "2",
+        "href": "Photo.svg",
+        "name": "Photo SVG"
+      }
+    ],
+    "pdfs": [
+      {
+        "id": "1",
+        "href": "Flower.pdf",
+        "name": "Flower PDF"
+      },
+      {
+        "id": "2",
+        "href": "Photo.pdf",
+        "name": "Photo PDF"
+      }
+    ]
+  }
+]
