@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <img width="300" src="./assets/logo.png">
     <div class="links">
       &bull;
       <a class="link" href="https://algaerium.info/">algaerium.info</a> &bull;
@@ -53,7 +54,6 @@
       >
       &bull; <br />
     </div>
-    <img width="300" src="./assets/logo.png">
     <router-view/>
   </div>
 </template>
