@@ -34,7 +34,7 @@
       <a class="link" href="https://karelia-trip.cc/">karelia-trip.cc</a> &bull;
       <a class="link" href="https://käpalised.com/">käpalised.com</a> &bull;
       <a class="link" href="https://lariushin.com/">lariushin.com</a> &bull;
-      &bull; <br />
+      <br />
       &bull;
       <a class="link" href="https://lichenarium.info/">lichenarium.info</a>
       <a class="link" href="https://melikian.vip/">melikian.vip</a> &bull;
@@ -53,7 +53,7 @@
       <br />
       &bull;
       <a class="link" href="https://wheeloftheyear.page/">wheeloftheyear.page</a
-      >&bull;<br />
+      > &bull;<br />
     </div>
     <router-view/>
   </div>
